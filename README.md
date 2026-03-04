@@ -30,3 +30,5 @@ Mastering Bitcoin (Andreas Antonopoulos): O guia técnico definitivo sobre o pro
 The Bitcoin Standard (Saifedean Ammous): Análise econômica sobre o papel do Bitcoin como reserva de valor.
 21 Lessons (Gigi): Reflexões filosóficas sobre o impacto social da tecnologia.
 
+Link para acesso ao projeto:
+https://notebooklm.google.com/notebook/98e76571-13c9-4fcf-9426-71f60e7b017d
